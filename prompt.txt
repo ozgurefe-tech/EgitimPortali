@@ -1,0 +1,14 @@
+Ben odtu kaltev için bir internet sitesi kurmak istiyorum ve ilk başta menüler bunlar;
+
+-İletişim 
+-Hakkında
+-Ofisler
+-Başvuru
+-Etkinliklerimiz
+-Ana sayfa
+-Eğitimler 
+-Kişiler
+-Yorumlar 
+-Yardım
+
+Vite,react ve typescript ile kodlanmış bi admin paneli istiyorum.
