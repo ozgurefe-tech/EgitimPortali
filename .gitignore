@@ -3,3 +3,6 @@ node_modules/
 node-v22*/
 portable*/
 portable*.exe
+node-portable.zip
+vite.log
+vite-error.log
