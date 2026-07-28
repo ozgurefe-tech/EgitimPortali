@@ -6,3 +6,5 @@ portable*.exe
 node-portable.zip
 vite.log
 vite-error.log
+.env
+.env.example
